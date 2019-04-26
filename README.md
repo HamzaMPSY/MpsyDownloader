@@ -1,4 +1,4 @@
-# Project Title
+# MpsyDownloader
 Script Python allows you to download videos and playlist from YouTube with different qualities
 
 ## Requirements
